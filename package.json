@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "demo server nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "hello world",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vucongthanh92/nodejs-server.git"
+  },
+  "author": "thanhvc",
+  "license": "ISC"
+}
