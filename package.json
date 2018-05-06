@@ -15,5 +15,9 @@
     "url": "https://github.com/vucongthanh92/nodejs-server.git"
   },
   "author": "thanhvc",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "uuid": "^3.2.1"
+  }
 }
